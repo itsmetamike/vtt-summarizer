@@ -1,0 +1,63 @@
+{
+  "meeting_overview": [
+    "Interoperability in collaborative software",
+    "Importance of device and distribution formats",
+    "Streamlining partnerships with digital item sharing",
+    "Feedback collection for future meeting schedule"
+  ],
+  "participants": [
+    "Kelly Vero",
+    "NAK3D",
+    "CrowdBureau",
+    "TANGRA",
+    "Nelly Tacheva",
+    "Jin"
+  ],
+  "main_topics": [
+    "Interoperability in collaborative software",
+    "Best device and distribution formats for content sharing",
+    "Partnership processes and streamlining digital item distribution",
+    "Feedback on meeting scheduling preferences",
+    "Industry speaker nominations and contributions"
+  ],
+  "key_points_decisions": [
+    {
+      "decision": "Adjust future meetings to accommodate schedule feedback",
+      "impact": "Increased participant satisfaction and engagement"
+    },
+    {
+      "decision": "Allow open nominations for industry speakers",
+      "impact": "Diverse perspectives in future meetings, fostering innovation"
+    },
+    {
+      "decision": "Continue using NAK3D's proprietary format with consideration of interoperability",
+      "impact": "Maintain current workflow while exploring broader standards"
+    },
+    {
+      "decision": "Propose a schedule for the next meeting on January 20th, led by Nelly Tacheva",
+      "impact": "Establishes clear expectations and preparation time for participants"
+    }
+  ],
+  "action_items": [
+    {
+      "item": "Collect and analyze feedback on meeting schedule",
+      "assigned_to": "MSF DFW team",
+      "description": "Gather participant input to determine optimal timing for future meetings"
+    },
+    {
+      "item": "Nominate industry speakers and review submissions",
+      "assigned_to": "All participants",
+      "description": "Encourage nominations from the community, ensuring a broad range of expertise at meetings"
+    },
+    {
+      "item": "Review NAK3D's format strategy in light of interoperability goals",
+      "assigned_to": "MSF DFW team and industry experts",
+      "description": "Evaluate the use of proprietary formats against open standards for future decision-making"
+    },
+    {
+      "item": "Finalize agenda and schedule for January 20th meeting",
+      "assigned_to": "Nelly Tacheva",
+      "description": "Prepare the meeting's structure, topics to be covered, and logistics"
+    }
+  ]
+}

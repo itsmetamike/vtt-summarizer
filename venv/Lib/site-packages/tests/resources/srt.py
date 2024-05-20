@@ -1,0 +1,42 @@
+STARWARS_SRT = """1
+00:03:33,634 --> 00:03:35,411
+Echo Three to Echo Seven.
+
+2
+00:03:35,594 --> 00:03:37,238
+Han, old buddy, do you read me?
+
+3
+00:03:37,721 --> 00:03:39,307
+<i>Loud and clear, kid.
+What's up?</i>
+
+4
+00:03:39,890 --> 00:03:42,401
+Well, I finished my circle.
+I don't pick up any life readings.
+
+5
+00:03:42,685 --> 00:03:45,646
+<i>There isn't enough life on
+this ice cube to fill a space cruiser.</i>
+
+6
+00:03:45,729 --> 00:03:47,564
+<i>The sensors are placed.
+I'm going back.</i>
+
+7
+00:03:47,948 --> 00:03:49,366
+Right. I'll see you shortly.
+
+8
+00:03:49,550 --> 00:03:51,577
+There's a meteorite
+that hit the ground near here.
+
+9
+00:03:51,578 --> 00:03:53,113
+I want to check it out.
+It won't take long.
+"""
